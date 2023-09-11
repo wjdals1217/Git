@@ -1,6 +1,5 @@
 # title
 content
-master content 2
-o2 content 2
+
 # title
 content
